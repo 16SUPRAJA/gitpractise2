@@ -3,3 +3,6 @@ def power(a):
 
 def sub(a,b):
     return a-b
+
+def add(x,y):
+    return x,y
